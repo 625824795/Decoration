@@ -1,0 +1,2 @@
+# Decoration
+a maven demo
