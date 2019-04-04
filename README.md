@@ -1,2 +1,2 @@
 # Decoration
-a maven demo
+a maven demo about java web project
